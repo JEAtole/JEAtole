@@ -1,35 +1,25 @@
-# Hi there 👋 
-## About me
-I'm Jhan Ellen Atole, an aspiring Software / Full-Stack Developer.
+<h1 align="center">Hi there 👋  I'm Jhan Ellen Atole</h1>
+<p align="center">
+  A computer science student at New Era University <br>
+  I enjoy programming and learning new things
+</p>
 
-Currently, I am studying in College to pursue a Bachelor's degree in Computer Science.
+<h2>Skills</h2>
 
-## Skills
+<h3>🟣 Programming Languages</h3>
 
-### 🟣 Programming Languages
-Java and JavaScript
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<h3>🟣 Front-End Development</h3>
+ 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+<h3>🟣 Database</h3>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
-### 🟣 Front-End 
-HTML and CSS
-
-
-### 🟣 Back-End
-MongoDB and CloudDB2
-
-
-<!--
-**JEAtole/JEAtole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
