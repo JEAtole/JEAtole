@@ -1,8 +1,5 @@
-<h1 align="center">Hi there 👋  I'm Jhan Ellen Atole</h1>
-<p align="center">
-  A computer science student at New Era University <br>
-  I enjoy programming and learning new things
-</p>
+
+![Atole_Introduction](https://github.com/JEAtole/JEAtole/assets/126703958/ebff94a7-1571-449b-851c-cd837923b1e3)
 
 <h2>Skills</h2>
 
