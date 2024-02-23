@@ -41,7 +41,12 @@
 
 # 🟣 Key Projects 🟣
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JEAtole&repo=Design-Patterns&theme=midnight-purple)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JEAtole&repo=Object-Oriented-Programming&theme=midnight-purple)
+ <a href="https://github.com/JEAtole/Design-Patterns.git">
+  <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=JEAtole&repo=Design-Patterns&theme=midnight-purple">
+ </a>
+ <a href="https://github.com/JEAtole/Object-Oriented-Programming.git">
+  <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=JEAtole&repo=Object-Oriented-Programming&theme=midnight-purple">
+ </a>
 
+ 
 </div>
