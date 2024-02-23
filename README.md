@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JEAtole&locale=en&hide_title=false&layout=donut&card_width=300&langs_count=5&theme=midnight-purple&hide_border=false" height="300" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JEAtole&locale=en&hide_title=false&layout=donut&card_width=300&langs_count=5&theme=midnight-purple" height="300" alt=" My top languages graph" />
 </div>
 
 <br/>
