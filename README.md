@@ -1,12 +1,15 @@
 
-![Atole_Introduction](https://github.com/JEAtole/JEAtole/assets/126703958/ebff94a7-1571-449b-851c-cd837923b1e3)
+![Intro](https://github.com/JEAtole/JEAtole/assets/126703958/f1bcd428-f5c7-4e8c-8633-9b1537ba4876)
 
+<br/>
+<br/>
+<hr/>
 <br/>
 <br/>
 
 <div align="center">
  
- # 🟣 Programming Languages and tools 🟣
+![Programming-Languages-and-Tools](https://github.com/JEAtole/JEAtole/assets/126703958/ce3d034d-9e9a-4960-b95f-387e840f1bf5)
 
 <br/>
  
@@ -36,10 +39,15 @@
 
 <br/>
 <br/>
+<hr/>
+<br/>
+<br/>
 
 <div align="center">
 
-# 🟣 Key Projects 🟣
+![Key Projects](https://github.com/JEAtole/JEAtole/assets/126703958/5eebc0e4-c9a4-41ac-9250-c3d706de3f5b)
+
+<br/>
 
  <a href="https://github.com/JEAtole/Design-Patterns.git">
   <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=JEAtole&repo=Design-Patterns&theme=midnight-purple">
