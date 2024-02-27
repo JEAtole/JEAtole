@@ -2,14 +2,13 @@
 ![Intro](https://github.com/JEAtole/JEAtole/assets/126703958/f1bcd428-f5c7-4e8c-8633-9b1537ba4876)
 
 <br/>
-<br/>
 <hr/>
 <br/>
 <br/>
 
 <div align="center">
- 
-![Programming-Languages-and-Tools](https://github.com/JEAtole/JEAtole/assets/126703958/ce3d034d-9e9a-4960-b95f-387e840f1bf5)
+
+![Programming-Languages-and-Tool-2](https://github.com/JEAtole/JEAtole/assets/126703958/95120081-2e41-48d0-881e-abf280171715)
 
 <br/>
  
@@ -45,7 +44,7 @@
 
 <div align="center">
 
-![Key Projects](https://github.com/JEAtole/JEAtole/assets/126703958/5eebc0e4-c9a4-41ac-9250-c3d706de3f5b)
+![Key-Projects-2](https://github.com/JEAtole/JEAtole/assets/126703958/2bfc5245-e1ff-44e9-b80f-a144007bafa1)
 
 <br/>
 
