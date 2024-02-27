@@ -44,6 +44,26 @@
 
 <div align="center">
 
+![Certifications-and-Badges](https://github.com/JEAtole/JEAtole/assets/126703958/40c17f78-c153-41ba-a424-12f58f77de0d)
+
+<br/>
+
+| Certifications & Badges | Date |
+| :-------: | :---: |
+| <a href="https://www.kaggle.com/learn/certification/jeatole/intro-to-programming"> Intro to Programming (Python) </a> | 09 Nov 2023 |
+| <a href="https://www.credly.com/badges/f24305e7-844f-41cc-b5e1-42b4612a6022/public_url"> CISCO Data Analytics Essentials </a> | 12 Oct 2023 |
+| <a href="https://simpli-web.app.link/e/BzaM9NAqnGb"> Business Analytics with Excel (Simplilearn) </a> | 07 Sep 2023 |
+| <a href="https://courses.cognitiveclass.ai/certificates/7b30cbcd3a5a4654a08b269ad5c8209d"> SQL and Relational Databases 101 </a> | 03 Nov 2022 |
+
+</div>
+
+<br/>
+<hr/>
+<br/>
+<br/>
+
+<div align="center">
+
 ![Key-Projects-2](https://github.com/JEAtole/JEAtole/assets/126703958/2bfc5245-e1ff-44e9-b80f-a144007bafa1)
 
 <br/>
