@@ -54,6 +54,8 @@
 
 <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYzhkNmJjMWQtN2U5YS00ODg3LWFlYzItZmVkMTVlMWM5OGI4IiwidCI6IjA2ZWNiNzAxLTdjOTYtNDMzOC04ZTk1LTE1MmMzZjM3MzM4MSIsImMiOjEwfQ%3D%3D">Snack Report Using DAX</a>
 
+<a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiOTYxZmE2YjctNWQ1YS00NTZmLWI2ZWQtYmNkYmUxY2U1MjQ5IiwidCI6IjA2ZWNiNzAxLTdjOTYtNDMzOC04ZTk1LTE1MmMzZjM3MzM4MSIsImMiOjEwfQ%3D%3D">Sales and Profit Report</a>
+
 <br/>
 
 <a href="https://github.com/JEAtole/Design-Patterns.git">
