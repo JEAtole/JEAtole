@@ -58,6 +58,14 @@
 
 <br/>
 
+<a href="https://github.com/JEAtole/Exam-Generator.git">
+  <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=JEAtole&repo=Exam-Generator&theme=midnight-purple">
+</a>
+
+<a href="https://github.com/JEAtole/pizza-ecommerce.git">
+  <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=JEAtole&repo=pizza-ecommerce&theme=midnight-purple">
+</a>
+
 <a href="https://github.com/JEAtole/Design-Patterns.git">
   <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=JEAtole&repo=Design-Patterns&theme=midnight-purple">
 </a>
