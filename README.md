@@ -32,6 +32,7 @@
 
 | Certifications & Badges | Date |
 | :-------: | :---: |
+| HTML, CSS, JavaScript (Mimo) | 2024 |
 | <a href="https://www.kaggle.com/learn/certification/jeatole/intro-to-programming"> Intro to Programming (Python) </a> | 09 Nov 2023 |
 | <a href="https://www.credly.com/badges/f24305e7-844f-41cc-b5e1-42b4612a6022/public_url"> CISCO Data Analytics Essentials </a> | 12 Oct 2023 |
 | <a href="https://simpli-web.app.link/e/BzaM9NAqnGb"> Business Analytics with Excel (Simplilearn) </a> | 07 Sep 2023 |
@@ -55,6 +56,8 @@
 <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYzhkNmJjMWQtN2U5YS00ODg3LWFlYzItZmVkMTVlMWM5OGI4IiwidCI6IjA2ZWNiNzAxLTdjOTYtNDMzOC04ZTk1LTE1MmMzZjM3MzM4MSIsImMiOjEwfQ%3D%3D">Snack Report Using DAX</a>
 
 <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiOTYxZmE2YjctNWQ1YS00NTZmLWI2ZWQtYmNkYmUxY2U1MjQ5IiwidCI6IjA2ZWNiNzAxLTdjOTYtNDMzOC04ZTk1LTE1MmMzZjM3MzM4MSIsImMiOjEwfQ%3D%3D">Sales and Profit Report</a>
+
+<a href="https://passportal.framer.ai/">Passportal: UI/UX Project</a>
 
 <br/>
 
